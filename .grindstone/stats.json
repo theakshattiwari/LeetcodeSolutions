@@ -1,0 +1,39 @@
+{
+  "problems": {
+    "concatenation-of-array": {
+      "id": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Simulation"
+      ],
+      "path": "1929-concatenation-of-array",
+      "firstSolved": 1795259414000,
+      "lastSolved": 1795259414000,
+      "langs": {
+        "cpp": {
+          "hash": "ba4d18bb2e0dac8edec15f620b42d0875b60991a96fa8f1afa01432fab3985ce",
+          "file": "concatenation-of-array.cpp",
+          "label": "C++"
+        }
+      },
+      "submissions": [
+        {
+          "lang": "cpp",
+          "label": "C++",
+          "runtime": "0 ms",
+          "memory": "16.8 MB",
+          "runtimePct": 100,
+          "memoryPct": 53.83249999999998,
+          "ts": 1795259414000,
+          "submissionId": 2200504305
+        }
+      ]
+    }
+  },
+  "activity": {
+    "2026-11-21": 1
+  }
+}
