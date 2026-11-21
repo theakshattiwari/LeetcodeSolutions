@@ -33,20 +33,52 @@
       "title": "Concatenation of Array"
     },
     "shuffle-the-array": {
-      "id": "1470",
-      "title": "Shuffle the Array",
-      "slug": "shuffle-the-array",
       "difficulty": "Easy",
+      "firstSolved": 1795284405000,
+      "id": "1470",
+      "langs": {
+        "cpp": {
+          "file": "shuffle-the-array.cpp",
+          "hash": "9536b66e968dd9778f99cac410e281b9b5671c7bf6247c977ede6d4c35d947ac",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795284405000,
+      "path": "1470-shuffle-the-array",
+      "slug": "shuffle-the-array",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "13.5 MB",
+          "memoryPct": 16.369000000000007,
+          "runtime": "7 ms",
+          "runtimePct": 15.026699999999998,
+          "submissionId": 2200758518,
+          "ts": 1795284405000
+        }
+      ],
       "tags": [
         "Array"
       ],
-      "path": "1470-shuffle-the-array",
-      "firstSolved": 1795284405000,
-      "lastSolved": 1795284405000,
+      "title": "Shuffle the Array"
+    },
+    "remove-duplicates-from-sorted-array": {
+      "id": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "path": "0026-remove-duplicates-from-sorted-array",
+      "firstSolved": 1795285258000,
+      "lastSolved": 1795285258000,
       "langs": {
         "cpp": {
-          "hash": "9536b66e968dd9778f99cac410e281b9b5671c7bf6247c977ede6d4c35d947ac",
-          "file": "shuffle-the-array.cpp",
+          "hash": "5bc0cce54c6d8d9843b1591ecd446ff10a569189c3cf70f50dd854b5ab23a838",
+          "file": "remove-duplicates-from-sorted-array.cpp",
           "label": "C++"
         }
       },
@@ -54,17 +86,17 @@
         {
           "lang": "cpp",
           "label": "C++",
-          "runtime": "7 ms",
-          "memory": "13.5 MB",
-          "runtimePct": 15.026699999999998,
-          "memoryPct": 16.369000000000007,
-          "ts": 1795284405000,
-          "submissionId": 2200758518
+          "runtime": "0 ms",
+          "memory": "22.5 MB",
+          "runtimePct": 100,
+          "memoryPct": 85.19699999999997,
+          "ts": 1795285258000,
+          "submissionId": 2200767533
         }
       ]
     }
   },
   "activity": {
-    "2026-11-21": 2
+    "2026-11-21": 3
   }
 }
