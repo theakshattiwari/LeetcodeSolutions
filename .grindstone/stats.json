@@ -1,5 +1,37 @@
 {
   "problems": {
+    "build-array-from-permutation": {
+      "difficulty": "Easy",
+      "firstSolved": 1795333376000,
+      "id": "1920",
+      "langs": {
+        "cpp": {
+          "file": "build-array-from-permutation.cpp",
+          "hash": "4b6284c395082d741d95e732ead408b801d6f5a966a766cb0948ff94be6e4c0f",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795333376000,
+      "path": "1920-build-array-from-permutation",
+      "slug": "build-array-from-permutation",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "20.7 MB",
+          "memoryPct": 40.1008,
+          "runtime": "0 ms",
+          "runtimePct": 100,
+          "submissionId": 2201126580,
+          "ts": 1795333376000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Simulation"
+      ],
+      "title": "Build Array from Permutation"
+    },
     "concatenation-of-array": {
       "difficulty": "Easy",
       "firstSolved": 1795259414000,
@@ -127,22 +159,21 @@
       ],
       "title": "Shuffle the Array"
     },
-    "build-array-from-permutation": {
-      "id": "1920",
-      "title": "Build Array from Permutation",
-      "slug": "build-array-from-permutation",
+    "max-consecutive-ones": {
+      "id": "485",
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
       "difficulty": "Easy",
       "tags": [
-        "Array",
-        "Simulation"
+        "Array"
       ],
-      "path": "1920-build-array-from-permutation",
-      "firstSolved": 1795333376000,
-      "lastSolved": 1795333376000,
+      "path": "0485-max-consecutive-ones",
+      "firstSolved": 1795335436000,
+      "lastSolved": 1795335436000,
       "langs": {
         "cpp": {
-          "hash": "4b6284c395082d741d95e732ead408b801d6f5a966a766cb0948ff94be6e4c0f",
-          "file": "build-array-from-permutation.cpp",
+          "hash": "55293b7b902affa7dbdba0ec117ac324cabf3f20f55ccf6b8aba887b44cd60a9",
+          "file": "max-consecutive-ones.cpp",
           "label": "C++"
         }
       },
@@ -150,18 +181,18 @@
         {
           "lang": "cpp",
           "label": "C++",
-          "runtime": "0 ms",
-          "memory": "20.7 MB",
-          "runtimePct": 100,
-          "memoryPct": 40.1008,
-          "ts": 1795333376000,
-          "submissionId": 2201126580
+          "runtime": "2 ms",
+          "memory": "50 MB",
+          "runtimePct": 16.919499999999996,
+          "memoryPct": 85.02679999999998,
+          "ts": 1795335436000,
+          "submissionId": 2201142302
         }
       ]
     }
   },
   "activity": {
     "2026-11-21": 3,
-    "2026-11-22": 2
+    "2026-11-22": 3
   }
 }
