@@ -32,6 +32,38 @@
       ],
       "title": "Concatenation of Array"
     },
+    "remove-duplicates-from-sorted-array": {
+      "difficulty": "Easy",
+      "firstSolved": 1795285258000,
+      "id": "26",
+      "langs": {
+        "cpp": {
+          "file": "remove-duplicates-from-sorted-array.cpp",
+          "hash": "5bc0cce54c6d8d9843b1591ecd446ff10a569189c3cf70f50dd854b5ab23a838",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795285258000,
+      "path": "0026-remove-duplicates-from-sorted-array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "22.5 MB",
+          "memoryPct": 85.19699999999997,
+          "runtime": "0 ms",
+          "runtimePct": 100,
+          "submissionId": 2200767533,
+          "ts": 1795285258000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "title": "Remove Duplicates from Sorted Array"
+    },
     "shuffle-the-array": {
       "difficulty": "Easy",
       "firstSolved": 1795284405000,
@@ -63,22 +95,22 @@
       ],
       "title": "Shuffle the Array"
     },
-    "remove-duplicates-from-sorted-array": {
-      "id": "26",
-      "title": "Remove Duplicates from Sorted Array",
-      "slug": "remove-duplicates-from-sorted-array",
+    "richest-customer-wealth": {
+      "id": "1672",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
       "difficulty": "Easy",
       "tags": [
         "Array",
-        "Two Pointers"
+        "Matrix"
       ],
-      "path": "0026-remove-duplicates-from-sorted-array",
-      "firstSolved": 1795285258000,
-      "lastSolved": 1795285258000,
+      "path": "1672-richest-customer-wealth",
+      "firstSolved": 1795332606000,
+      "lastSolved": 1795332606000,
       "langs": {
         "cpp": {
-          "hash": "5bc0cce54c6d8d9843b1591ecd446ff10a569189c3cf70f50dd854b5ab23a838",
-          "file": "remove-duplicates-from-sorted-array.cpp",
+          "hash": "eeb5181a35ff2306e241924943979496b716280201ceff92bc82ffe7ad9c2929",
+          "file": "richest-customer-wealth.cpp",
           "label": "C++"
         }
       },
@@ -87,16 +119,17 @@
           "lang": "cpp",
           "label": "C++",
           "runtime": "0 ms",
-          "memory": "22.5 MB",
+          "memory": "11.4 MB",
           "runtimePct": 100,
-          "memoryPct": 85.19699999999997,
-          "ts": 1795285258000,
-          "submissionId": 2200767533
+          "memoryPct": 14.908299999999993,
+          "ts": 1795332606000,
+          "submissionId": 2201120307
         }
       ]
     }
   },
   "activity": {
-    "2026-11-21": 3
+    "2026-11-21": 3,
+    "2026-11-22": 1
   }
 }
