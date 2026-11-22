@@ -159,6 +159,38 @@
       ],
       "title": "Remove Duplicates from Sorted Array"
     },
+    "remove-element": {
+      "difficulty": "Easy",
+      "firstSolved": 1795342810000,
+      "id": "27",
+      "langs": {
+        "cpp": {
+          "file": "remove-element.cpp",
+          "hash": "5929347474eed3efefdfe18edc0f68d5e60e887fb1ec319d8982a73a508b426e",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795342810000,
+      "path": "0027-remove-element",
+      "slug": "remove-element",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "11.8 MB",
+          "memoryPct": 34.8987,
+          "runtime": "0 ms",
+          "runtimePct": 100,
+          "submissionId": 2201196089,
+          "ts": 1795342810000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "title": "Remove Element"
+    },
     "richest-customer-wealth": {
       "difficulty": "Easy",
       "firstSolved": 1795332606000,
@@ -255,22 +287,23 @@
       ],
       "title": "Shuffle the Array"
     },
-    "remove-element": {
-      "id": "27",
-      "title": "Remove Element",
-      "slug": "remove-element",
-      "difficulty": "Easy",
+    "rotate-image": {
+      "id": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "difficulty": "Medium",
       "tags": [
         "Array",
-        "Two Pointers"
+        "Math",
+        "Matrix"
       ],
-      "path": "0027-remove-element",
-      "firstSolved": 1795342810000,
-      "lastSolved": 1795342810000,
+      "path": "0048-rotate-image",
+      "firstSolved": 1795354177000,
+      "lastSolved": 1795354177000,
       "langs": {
         "cpp": {
-          "hash": "5929347474eed3efefdfe18edc0f68d5e60e887fb1ec319d8982a73a508b426e",
-          "file": "remove-element.cpp",
+          "hash": "8d0bb96ea497a213c5cf7a90e37cbba2a7ab63bdf506e35afc48befe2c09935f",
+          "file": "rotate-image.cpp",
           "label": "C++"
         }
       },
@@ -279,17 +312,17 @@
           "lang": "cpp",
           "label": "C++",
           "runtime": "0 ms",
-          "memory": "11.8 MB",
+          "memory": "10.2 MB",
           "runtimePct": 100,
-          "memoryPct": 34.8987,
-          "ts": 1795342810000,
-          "submissionId": 2201196089
+          "memoryPct": 22.70910000000002,
+          "ts": 1795354177000,
+          "submissionId": 2201286718
         }
       ]
     }
   },
   "activity": {
     "2026-11-21": 3,
-    "2026-11-22": 6
+    "2026-11-22": 7
   }
 }
