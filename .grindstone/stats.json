@@ -64,6 +64,38 @@
       ],
       "title": "Remove Duplicates from Sorted Array"
     },
+    "richest-customer-wealth": {
+      "difficulty": "Easy",
+      "firstSolved": 1795332606000,
+      "id": "1672",
+      "langs": {
+        "cpp": {
+          "file": "richest-customer-wealth.cpp",
+          "hash": "eeb5181a35ff2306e241924943979496b716280201ceff92bc82ffe7ad9c2929",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795332606000,
+      "path": "1672-richest-customer-wealth",
+      "slug": "richest-customer-wealth",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "11.4 MB",
+          "memoryPct": 14.908299999999993,
+          "runtime": "0 ms",
+          "runtimePct": 100,
+          "submissionId": 2201120307,
+          "ts": 1795332606000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Matrix"
+      ],
+      "title": "Richest Customer Wealth"
+    },
     "shuffle-the-array": {
       "difficulty": "Easy",
       "firstSolved": 1795284405000,
@@ -95,22 +127,22 @@
       ],
       "title": "Shuffle the Array"
     },
-    "richest-customer-wealth": {
-      "id": "1672",
-      "title": "Richest Customer Wealth",
-      "slug": "richest-customer-wealth",
+    "build-array-from-permutation": {
+      "id": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
       "difficulty": "Easy",
       "tags": [
         "Array",
-        "Matrix"
+        "Simulation"
       ],
-      "path": "1672-richest-customer-wealth",
-      "firstSolved": 1795332606000,
-      "lastSolved": 1795332606000,
+      "path": "1920-build-array-from-permutation",
+      "firstSolved": 1795333376000,
+      "lastSolved": 1795333376000,
       "langs": {
         "cpp": {
-          "hash": "eeb5181a35ff2306e241924943979496b716280201ceff92bc82ffe7ad9c2929",
-          "file": "richest-customer-wealth.cpp",
+          "hash": "4b6284c395082d741d95e732ead408b801d6f5a966a766cb0948ff94be6e4c0f",
+          "file": "build-array-from-permutation.cpp",
           "label": "C++"
         }
       },
@@ -119,17 +151,17 @@
           "lang": "cpp",
           "label": "C++",
           "runtime": "0 ms",
-          "memory": "11.4 MB",
+          "memory": "20.7 MB",
           "runtimePct": 100,
-          "memoryPct": 14.908299999999993,
-          "ts": 1795332606000,
-          "submissionId": 2201120307
+          "memoryPct": 40.1008,
+          "ts": 1795333376000,
+          "submissionId": 2201126580
         }
       ]
     }
   },
   "activity": {
     "2026-11-21": 3,
-    "2026-11-22": 1
+    "2026-11-22": 2
   }
 }
