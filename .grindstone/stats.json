@@ -64,6 +64,37 @@
       ],
       "title": "Concatenation of Array"
     },
+    "max-consecutive-ones": {
+      "difficulty": "Easy",
+      "firstSolved": 1795335436000,
+      "id": "485",
+      "langs": {
+        "cpp": {
+          "file": "max-consecutive-ones.cpp",
+          "hash": "55293b7b902affa7dbdba0ec117ac324cabf3f20f55ccf6b8aba887b44cd60a9",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795335436000,
+      "path": "0485-max-consecutive-ones",
+      "slug": "max-consecutive-ones",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "50 MB",
+          "memoryPct": 85.02679999999998,
+          "runtime": "2 ms",
+          "runtimePct": 16.919499999999996,
+          "submissionId": 2201142302,
+          "ts": 1795335436000
+        }
+      ],
+      "tags": [
+        "Array"
+      ],
+      "title": "Max Consecutive Ones"
+    },
     "remove-duplicates-from-sorted-array": {
       "difficulty": "Easy",
       "firstSolved": 1795285258000,
@@ -159,21 +190,23 @@
       ],
       "title": "Shuffle the Array"
     },
-    "max-consecutive-ones": {
-      "id": "485",
-      "title": "Max Consecutive Ones",
-      "slug": "max-consecutive-ones",
-      "difficulty": "Easy",
+    "rotate-array": {
+      "id": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "difficulty": "Medium",
       "tags": [
-        "Array"
+        "Array",
+        "Math",
+        "Two Pointers"
       ],
-      "path": "0485-max-consecutive-ones",
-      "firstSolved": 1795335436000,
-      "lastSolved": 1795335436000,
+      "path": "0189-rotate-array",
+      "firstSolved": 1795335945000,
+      "lastSolved": 1795335945000,
       "langs": {
         "cpp": {
-          "hash": "55293b7b902affa7dbdba0ec117ac324cabf3f20f55ccf6b8aba887b44cd60a9",
-          "file": "max-consecutive-ones.cpp",
+          "hash": "010d0cf80c517b4bdffc29d5833af7909b48c524f315159b433277b11376c54b",
+          "file": "rotate-array.cpp",
           "label": "C++"
         }
       },
@@ -181,18 +214,18 @@
         {
           "lang": "cpp",
           "label": "C++",
-          "runtime": "2 ms",
-          "memory": "50 MB",
-          "runtimePct": 16.919499999999996,
-          "memoryPct": 85.02679999999998,
-          "ts": 1795335436000,
-          "submissionId": 2201142302
+          "runtime": "4 ms",
+          "memory": "263.4 MB",
+          "runtimePct": 58.13539999999999,
+          "memoryPct": 64.85350000000005,
+          "ts": 1795335945000,
+          "submissionId": 2201145974
         }
       ]
     }
   },
   "activity": {
     "2026-11-21": 3,
-    "2026-11-22": 3
+    "2026-11-22": 4
   }
 }
