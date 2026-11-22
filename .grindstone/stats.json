@@ -64,6 +64,38 @@
       ],
       "title": "Concatenation of Array"
     },
+    "find-all-numbers-disappeared-in-an-array": {
+      "difficulty": "Easy",
+      "firstSolved": 1795341624000,
+      "id": "448",
+      "langs": {
+        "cpp": {
+          "file": "find-all-numbers-disappeared-in-an-array.cpp",
+          "hash": "5520562716117f59b907a7c90a843eb62462b22b89b633c6788f931767048848",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795341624000,
+      "path": "0448-find-all-numbers-disappeared-in-an-array",
+      "slug": "find-all-numbers-disappeared-in-an-array",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "52.8 MB",
+          "memoryPct": 94.02300000000001,
+          "runtime": "2 ms",
+          "runtimePct": 89.3953,
+          "submissionId": 2201187455,
+          "ts": 1795341624000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Hash Table"
+      ],
+      "title": "Find All Numbers Disappeared in an Array"
+    },
     "max-consecutive-ones": {
       "difficulty": "Easy",
       "firstSolved": 1795335436000,
@@ -223,22 +255,22 @@
       ],
       "title": "Shuffle the Array"
     },
-    "find-all-numbers-disappeared-in-an-array": {
-      "id": "448",
-      "title": "Find All Numbers Disappeared in an Array",
-      "slug": "find-all-numbers-disappeared-in-an-array",
+    "remove-element": {
+      "id": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
       "difficulty": "Easy",
       "tags": [
         "Array",
-        "Hash Table"
+        "Two Pointers"
       ],
-      "path": "0448-find-all-numbers-disappeared-in-an-array",
-      "firstSolved": 1795341624000,
-      "lastSolved": 1795341624000,
+      "path": "0027-remove-element",
+      "firstSolved": 1795342810000,
+      "lastSolved": 1795342810000,
       "langs": {
         "cpp": {
-          "hash": "5520562716117f59b907a7c90a843eb62462b22b89b633c6788f931767048848",
-          "file": "find-all-numbers-disappeared-in-an-array.cpp",
+          "hash": "5929347474eed3efefdfe18edc0f68d5e60e887fb1ec319d8982a73a508b426e",
+          "file": "remove-element.cpp",
           "label": "C++"
         }
       },
@@ -246,18 +278,18 @@
         {
           "lang": "cpp",
           "label": "C++",
-          "runtime": "2 ms",
-          "memory": "52.8 MB",
-          "runtimePct": 89.3953,
-          "memoryPct": 94.02300000000001,
-          "ts": 1795341624000,
-          "submissionId": 2201187455
+          "runtime": "0 ms",
+          "memory": "11.8 MB",
+          "runtimePct": 100,
+          "memoryPct": 34.8987,
+          "ts": 1795342810000,
+          "submissionId": 2201196089
         }
       ]
     }
   },
   "activity": {
     "2026-11-21": 3,
-    "2026-11-22": 5
+    "2026-11-22": 6
   }
 }
