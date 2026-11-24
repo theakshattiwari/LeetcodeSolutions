@@ -257,6 +257,41 @@
       ],
       "title": "Maximum Subarray"
     },
+    "maximum-sum-circular-subarray": {
+      "difficulty": "Medium",
+      "firstSolved": 1795549980000,
+      "id": "918",
+      "langs": {
+        "cpp": {
+          "file": "maximum-sum-circular-subarray.cpp",
+          "hash": "1ffec9717442eeb7e193e8dfa3f87edf61be3f7585fba0a99d6750225b5db4d8",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795549980000,
+      "path": "0918-maximum-sum-circular-subarray",
+      "slug": "maximum-sum-circular-subarray",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "43.7 MB",
+          "memoryPct": 39.838499999999996,
+          "runtime": "0 ms",
+          "runtimePct": 100,
+          "submissionId": 2202832619,
+          "ts": 1795549980000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming",
+        "Queue",
+        "Monotonic Queue"
+      ],
+      "title": "Maximum Sum Circular Subarray"
+    },
     "product-of-array-except-self": {
       "difficulty": "Medium",
       "firstSolved": 1795520986000,
@@ -547,25 +582,22 @@
       ],
       "title": "Shuffle the Array"
     },
-    "maximum-sum-circular-subarray": {
-      "id": "918",
-      "title": "Maximum Sum Circular Subarray",
-      "slug": "maximum-sum-circular-subarray",
-      "difficulty": "Medium",
+    "move-zeroes": {
+      "id": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "difficulty": "Easy",
       "tags": [
         "Array",
-        "Divide and Conquer",
-        "Dynamic Programming",
-        "Queue",
-        "Monotonic Queue"
+        "Two Pointers"
       ],
-      "path": "0918-maximum-sum-circular-subarray",
-      "firstSolved": 1795549980000,
-      "lastSolved": 1795549980000,
+      "path": "0283-move-zeroes",
+      "firstSolved": 1795550549000,
+      "lastSolved": 1795550549000,
       "langs": {
         "cpp": {
-          "hash": "1ffec9717442eeb7e193e8dfa3f87edf61be3f7585fba0a99d6750225b5db4d8",
-          "file": "maximum-sum-circular-subarray.cpp",
+          "hash": "02b31794f4fd8a57fbf81145353b402abe67706c7332974c07742e771e70ba5a",
+          "file": "move-zeroes.cpp",
           "label": "C++"
         }
       },
@@ -574,11 +606,11 @@
           "lang": "cpp",
           "label": "C++",
           "runtime": "0 ms",
-          "memory": "43.7 MB",
+          "memory": "23.7 MB",
           "runtimePct": 100,
-          "memoryPct": 39.838499999999996,
-          "ts": 1795549980000,
-          "submissionId": 2202832619
+          "memoryPct": 71.87149999999998,
+          "ts": 1795550549000,
+          "submissionId": 2202836053
         }
       ]
     }
@@ -587,6 +619,6 @@
     "2026-11-21": 3,
     "2026-11-22": 7,
     "2026-11-24": 5,
-    "2026-11-25": 3
+    "2026-11-25": 4
   }
 }
