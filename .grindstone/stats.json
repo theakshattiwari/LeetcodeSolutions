@@ -1,5 +1,37 @@
 {
   "problems": {
+    "best-time-to-buy-and-sell-stock": {
+      "difficulty": "Easy",
+      "firstSolved": 1795546608000,
+      "id": "121",
+      "langs": {
+        "cpp": {
+          "file": "best-time-to-buy-and-sell-stock.cpp",
+          "hash": "18cda68e2de6bb53fdeeedcf64289583ae262692ea47064a205c731428eaaf36",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795546608000,
+      "path": "0121-best-time-to-buy-and-sell-stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "97.3 MB",
+          "memoryPct": 39.77879999999994,
+          "runtime": "0 ms",
+          "runtimePct": 100,
+          "submissionId": 2202809525,
+          "ts": 1795546608000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "title": "Best Time to Buy and Sell Stock"
+    },
     "build-array-from-permutation": {
       "difficulty": "Easy",
       "firstSolved": 1795333376000,
@@ -482,22 +514,23 @@
       ],
       "title": "Shuffle the Array"
     },
-    "best-time-to-buy-and-sell-stock": {
-      "id": "121",
-      "title": "Best Time to Buy and Sell Stock",
-      "slug": "best-time-to-buy-and-sell-stock",
-      "difficulty": "Easy",
+    "best-time-to-buy-and-sell-stock-ii": {
+      "id": "122",
+      "title": "Best Time to Buy and Sell Stock II",
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "difficulty": "Medium",
       "tags": [
         "Array",
-        "Dynamic Programming"
+        "Dynamic Programming",
+        "Greedy"
       ],
-      "path": "0121-best-time-to-buy-and-sell-stock",
-      "firstSolved": 1795546608000,
-      "lastSolved": 1795546608000,
+      "path": "0122-best-time-to-buy-and-sell-stock-ii",
+      "firstSolved": 1795547189000,
+      "lastSolved": 1795547189000,
       "langs": {
         "cpp": {
-          "hash": "18cda68e2de6bb53fdeeedcf64289583ae262692ea47064a205c731428eaaf36",
-          "file": "best-time-to-buy-and-sell-stock.cpp",
+          "hash": "773b04718acfecbad5cd487a852d7b8edc28d46834e648545b34619fe26bde0b",
+          "file": "best-time-to-buy-and-sell-stock-ii.cpp",
           "label": "C++"
         }
       },
@@ -506,11 +539,11 @@
           "lang": "cpp",
           "label": "C++",
           "runtime": "0 ms",
-          "memory": "97.3 MB",
+          "memory": "19.9 MB",
           "runtimePct": 100,
-          "memoryPct": 39.77879999999994,
-          "ts": 1795546608000,
-          "submissionId": 2202809525
+          "memoryPct": 91.04049999999998,
+          "ts": 1795547189000,
+          "submissionId": 2202813960
         }
       ]
     }
@@ -519,6 +552,6 @@
     "2026-11-21": 3,
     "2026-11-22": 7,
     "2026-11-24": 5,
-    "2026-11-25": 1
+    "2026-11-25": 2
   }
 }
