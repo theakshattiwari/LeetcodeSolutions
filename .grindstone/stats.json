@@ -159,6 +159,38 @@
       ],
       "title": "Max Consecutive Ones"
     },
+    "product-of-array-except-self": {
+      "difficulty": "Medium",
+      "firstSolved": 1795520986000,
+      "id": "238",
+      "langs": {
+        "cpp": {
+          "file": "product-of-array-except-self.cpp",
+          "hash": "d25c8e588099d5f422a08d99019cd3abaecb7c7876f6a6e42e5436917b736693",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795520986000,
+      "path": "0238-product-of-array-except-self",
+      "slug": "product-of-array-except-self",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "40.2 MB",
+          "memoryPct": 74.8326,
+          "runtime": "1 ms",
+          "runtimePct": 72.2986,
+          "submissionId": 2202554698,
+          "ts": 1795520986000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "title": "Product of Array Except Self"
+    },
     "remove-duplicates-from-sorted-array": {
       "difficulty": "Easy",
       "firstSolved": 1795285258000,
@@ -384,22 +416,23 @@
       ],
       "title": "Shuffle the Array"
     },
-    "product-of-array-except-self": {
-      "id": "238",
-      "title": "Product of Array Except Self",
-      "slug": "product-of-array-except-self",
-      "difficulty": "Medium",
+    "range-sum-query-immutable": {
+      "id": "303",
+      "title": "Range Sum Query - Immutable",
+      "slug": "range-sum-query-immutable",
+      "difficulty": "Easy",
       "tags": [
         "Array",
+        "Design",
         "Prefix Sum"
       ],
-      "path": "0238-product-of-array-except-self",
-      "firstSolved": 1795520986000,
-      "lastSolved": 1795520986000,
+      "path": "0303-range-sum-query-immutable",
+      "firstSolved": 1795522582000,
+      "lastSolved": 1795522582000,
       "langs": {
         "cpp": {
-          "hash": "d25c8e588099d5f422a08d99019cd3abaecb7c7876f6a6e42e5436917b736693",
-          "file": "product-of-array-except-self.cpp",
+          "hash": "70f2e4a081e4eb938a7e5947f518310271d04334ed7286e78e7ecbdc3bc3fad5",
+          "file": "range-sum-query-immutable.cpp",
           "label": "C++"
         }
       },
@@ -407,12 +440,12 @@
         {
           "lang": "cpp",
           "label": "C++",
-          "runtime": "1 ms",
-          "memory": "40.2 MB",
-          "runtimePct": 72.2986,
-          "memoryPct": 74.8326,
-          "ts": 1795520986000,
-          "submissionId": 2202554698
+          "runtime": "6 ms",
+          "memory": "23.8 MB",
+          "runtimePct": 48.79440000000001,
+          "memoryPct": 76.6837,
+          "ts": 1795522582000,
+          "submissionId": 2202566505
         }
       ]
     }
@@ -420,6 +453,6 @@
   "activity": {
     "2026-11-21": 3,
     "2026-11-22": 7,
-    "2026-11-24": 3
+    "2026-11-24": 4
   }
 }
