@@ -289,6 +289,38 @@
       ],
       "title": "Rotate Image"
     },
+    "running-sum-of-1d-array": {
+      "difficulty": "Easy",
+      "firstSolved": 1795511459000,
+      "id": "1480",
+      "langs": {
+        "cpp": {
+          "file": "running-sum-of-1d-array.cpp",
+          "hash": "fb80c248d6b7a22eb1e0ccd12d65c4e9edc5d51a34028ac0820552de75a2a851",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795511459000,
+      "path": "1480-running-sum-of-1d-array",
+      "slug": "running-sum-of-1d-array",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "12.6 MB",
+          "memoryPct": 10.448299999999989,
+          "runtime": "0 ms",
+          "runtimePct": 100,
+          "submissionId": 2202474913,
+          "ts": 1795511459000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "title": "Running Sum of 1d Array"
+    },
     "shuffle-the-array": {
       "difficulty": "Easy",
       "firstSolved": 1795284405000,
@@ -320,22 +352,22 @@
       ],
       "title": "Shuffle the Array"
     },
-    "running-sum-of-1d-array": {
-      "id": "1480",
-      "title": "Running Sum of 1d Array",
-      "slug": "running-sum-of-1d-array",
+    "find-pivot-index": {
+      "id": "724",
+      "title": "Find Pivot Index",
+      "slug": "find-pivot-index",
       "difficulty": "Easy",
       "tags": [
         "Array",
         "Prefix Sum"
       ],
-      "path": "1480-running-sum-of-1d-array",
-      "firstSolved": 1795511459000,
-      "lastSolved": 1795511459000,
+      "path": "0724-find-pivot-index",
+      "firstSolved": 1795517788000,
+      "lastSolved": 1795517788000,
       "langs": {
         "cpp": {
-          "hash": "fb80c248d6b7a22eb1e0ccd12d65c4e9edc5d51a34028ac0820552de75a2a851",
-          "file": "running-sum-of-1d-array.cpp",
+          "hash": "6c9bf9b1ce20c4c2754012f7cd71eabaa81b3f912ff06e427710c3ad82b875f3",
+          "file": "find-pivot-index.cpp",
           "label": "C++"
         }
       },
@@ -343,12 +375,12 @@
         {
           "lang": "cpp",
           "label": "C++",
-          "runtime": "0 ms",
-          "memory": "12.6 MB",
-          "runtimePct": 100,
-          "memoryPct": 10.448299999999989,
-          "ts": 1795511459000,
-          "submissionId": 2202474913
+          "runtime": "1 ms",
+          "memory": "35.6 MB",
+          "runtimePct": 39.5539,
+          "memoryPct": 91.85889999999999,
+          "ts": 1795517788000,
+          "submissionId": 2202530459
         }
       ]
     }
@@ -356,6 +388,6 @@
   "activity": {
     "2026-11-21": 3,
     "2026-11-22": 7,
-    "2026-11-24": 1
+    "2026-11-24": 2
   }
 }
