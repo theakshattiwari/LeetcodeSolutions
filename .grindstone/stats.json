@@ -256,6 +256,39 @@
       ],
       "title": "Rotate Array"
     },
+    "rotate-image": {
+      "difficulty": "Medium",
+      "firstSolved": 1795354177000,
+      "id": "48",
+      "langs": {
+        "cpp": {
+          "file": "rotate-image.cpp",
+          "hash": "8d0bb96ea497a213c5cf7a90e37cbba2a7ab63bdf506e35afc48befe2c09935f",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795354177000,
+      "path": "0048-rotate-image",
+      "slug": "rotate-image",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "10.2 MB",
+          "memoryPct": 22.70910000000002,
+          "runtime": "0 ms",
+          "runtimePct": 100,
+          "submissionId": 2201286718,
+          "ts": 1795354177000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Math",
+        "Matrix"
+      ],
+      "title": "Rotate Image"
+    },
     "shuffle-the-array": {
       "difficulty": "Easy",
       "firstSolved": 1795284405000,
@@ -287,23 +320,22 @@
       ],
       "title": "Shuffle the Array"
     },
-    "rotate-image": {
-      "id": "48",
-      "title": "Rotate Image",
-      "slug": "rotate-image",
-      "difficulty": "Medium",
+    "running-sum-of-1d-array": {
+      "id": "1480",
+      "title": "Running Sum of 1d Array",
+      "slug": "running-sum-of-1d-array",
+      "difficulty": "Easy",
       "tags": [
         "Array",
-        "Math",
-        "Matrix"
+        "Prefix Sum"
       ],
-      "path": "0048-rotate-image",
-      "firstSolved": 1795354177000,
-      "lastSolved": 1795354177000,
+      "path": "1480-running-sum-of-1d-array",
+      "firstSolved": 1795511459000,
+      "lastSolved": 1795511459000,
       "langs": {
         "cpp": {
-          "hash": "8d0bb96ea497a213c5cf7a90e37cbba2a7ab63bdf506e35afc48befe2c09935f",
-          "file": "rotate-image.cpp",
+          "hash": "fb80c248d6b7a22eb1e0ccd12d65c4e9edc5d51a34028ac0820552de75a2a851",
+          "file": "running-sum-of-1d-array.cpp",
           "label": "C++"
         }
       },
@@ -312,17 +344,18 @@
           "lang": "cpp",
           "label": "C++",
           "runtime": "0 ms",
-          "memory": "10.2 MB",
+          "memory": "12.6 MB",
           "runtimePct": 100,
-          "memoryPct": 22.70910000000002,
-          "ts": 1795354177000,
-          "submissionId": 2201286718
+          "memoryPct": 10.448299999999989,
+          "ts": 1795511459000,
+          "submissionId": 2202474913
         }
       ]
     }
   },
   "activity": {
     "2026-11-21": 3,
-    "2026-11-22": 7
+    "2026-11-22": 7,
+    "2026-11-24": 1
   }
 }
