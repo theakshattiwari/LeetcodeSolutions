@@ -191,6 +191,39 @@
       ],
       "title": "Product of Array Except Self"
     },
+    "range-sum-query-immutable": {
+      "difficulty": "Easy",
+      "firstSolved": 1795522582000,
+      "id": "303",
+      "langs": {
+        "cpp": {
+          "file": "range-sum-query-immutable.cpp",
+          "hash": "70f2e4a081e4eb938a7e5947f518310271d04334ed7286e78e7ecbdc3bc3fad5",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795522582000,
+      "path": "0303-range-sum-query-immutable",
+      "slug": "range-sum-query-immutable",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "23.8 MB",
+          "memoryPct": 76.6837,
+          "runtime": "6 ms",
+          "runtimePct": 48.79440000000001,
+          "submissionId": 2202566505,
+          "ts": 1795522582000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Design",
+        "Prefix Sum"
+      ],
+      "title": "Range Sum Query - Immutable"
+    },
     "remove-duplicates-from-sorted-array": {
       "difficulty": "Easy",
       "firstSolved": 1795285258000,
@@ -416,23 +449,23 @@
       ],
       "title": "Shuffle the Array"
     },
-    "range-sum-query-immutable": {
-      "id": "303",
-      "title": "Range Sum Query - Immutable",
-      "slug": "range-sum-query-immutable",
-      "difficulty": "Easy",
+    "maximum-subarray": {
+      "id": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "difficulty": "Medium",
       "tags": [
         "Array",
-        "Design",
-        "Prefix Sum"
+        "Divide and Conquer",
+        "Dynamic Programming"
       ],
-      "path": "0303-range-sum-query-immutable",
-      "firstSolved": 1795522582000,
-      "lastSolved": 1795522582000,
+      "path": "0053-maximum-subarray",
+      "firstSolved": 1795525728000,
+      "lastSolved": 1795525728000,
       "langs": {
         "cpp": {
-          "hash": "70f2e4a081e4eb938a7e5947f518310271d04334ed7286e78e7ecbdc3bc3fad5",
-          "file": "range-sum-query-immutable.cpp",
+          "hash": "c4f3970d076d140b075e9d37a426306dc8533c03b90902ecb3acf96f59886bce",
+          "file": "maximum-subarray.cpp",
           "label": "C++"
         }
       },
@@ -440,12 +473,12 @@
         {
           "lang": "cpp",
           "label": "C++",
-          "runtime": "6 ms",
-          "memory": "23.8 MB",
-          "runtimePct": 48.79440000000001,
-          "memoryPct": 76.6837,
-          "ts": 1795522582000,
-          "submissionId": 2202566505
+          "runtime": "0 ms",
+          "memory": "71.6 MB",
+          "runtimePct": 100,
+          "memoryPct": 87.08379999999997,
+          "ts": 1795525728000,
+          "submissionId": 2202592623
         }
       ]
     }
@@ -453,6 +486,6 @@
   "activity": {
     "2026-11-21": 3,
     "2026-11-22": 7,
-    "2026-11-24": 4
+    "2026-11-24": 5
   }
 }
