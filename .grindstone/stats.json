@@ -159,6 +159,39 @@
       ],
       "title": "Max Consecutive Ones"
     },
+    "maximum-subarray": {
+      "difficulty": "Medium",
+      "firstSolved": 1795525728000,
+      "id": "53",
+      "langs": {
+        "cpp": {
+          "file": "maximum-subarray.cpp",
+          "hash": "c4f3970d076d140b075e9d37a426306dc8533c03b90902ecb3acf96f59886bce",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795525728000,
+      "path": "0053-maximum-subarray",
+      "slug": "maximum-subarray",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "71.6 MB",
+          "memoryPct": 87.08379999999997,
+          "runtime": "0 ms",
+          "runtimePct": 100,
+          "submissionId": 2202592623,
+          "ts": 1795525728000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ],
+      "title": "Maximum Subarray"
+    },
     "product-of-array-except-self": {
       "difficulty": "Medium",
       "firstSolved": 1795520986000,
@@ -449,23 +482,22 @@
       ],
       "title": "Shuffle the Array"
     },
-    "maximum-subarray": {
-      "id": "53",
-      "title": "Maximum Subarray",
-      "slug": "maximum-subarray",
-      "difficulty": "Medium",
+    "best-time-to-buy-and-sell-stock": {
+      "id": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
       "tags": [
         "Array",
-        "Divide and Conquer",
         "Dynamic Programming"
       ],
-      "path": "0053-maximum-subarray",
-      "firstSolved": 1795525728000,
-      "lastSolved": 1795525728000,
+      "path": "0121-best-time-to-buy-and-sell-stock",
+      "firstSolved": 1795546608000,
+      "lastSolved": 1795546608000,
       "langs": {
         "cpp": {
-          "hash": "c4f3970d076d140b075e9d37a426306dc8533c03b90902ecb3acf96f59886bce",
-          "file": "maximum-subarray.cpp",
+          "hash": "18cda68e2de6bb53fdeeedcf64289583ae262692ea47064a205c731428eaaf36",
+          "file": "best-time-to-buy-and-sell-stock.cpp",
           "label": "C++"
         }
       },
@@ -474,11 +506,11 @@
           "lang": "cpp",
           "label": "C++",
           "runtime": "0 ms",
-          "memory": "71.6 MB",
+          "memory": "97.3 MB",
           "runtimePct": 100,
-          "memoryPct": 87.08379999999997,
-          "ts": 1795525728000,
-          "submissionId": 2202592623
+          "memoryPct": 39.77879999999994,
+          "ts": 1795546608000,
+          "submissionId": 2202809525
         }
       ]
     }
@@ -486,6 +518,7 @@
   "activity": {
     "2026-11-21": 3,
     "2026-11-22": 7,
-    "2026-11-24": 5
+    "2026-11-24": 5,
+    "2026-11-25": 1
   }
 }
