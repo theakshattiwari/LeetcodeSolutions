@@ -358,6 +358,39 @@
       ],
       "title": "Maximum Sum Circular Subarray"
     },
+    "merge-intervals": {
+      "difficulty": "Medium",
+      "firstSolved": 1795695144000,
+      "id": "56",
+      "langs": {
+        "cpp": {
+          "file": "merge-intervals.cpp",
+          "hash": "ee30fc2fff7a1b8fa9d7d0fcdc5a34e54d57a6cb1d54ac591fe8dcbac40c5bb8",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795695144000,
+      "path": "0056-merge-intervals",
+      "slug": "merge-intervals",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "23.9 MB",
+          "memoryPct": 31.10410000000002,
+          "runtime": "5 ms",
+          "runtimePct": 67.72940000000001,
+          "submissionId": 2203878255,
+          "ts": 1795695144000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "title": "Merge Intervals"
+    },
     "move-zeroes": {
       "difficulty": "Easy",
       "firstSolved": 1795550549000,
@@ -781,23 +814,23 @@
       ],
       "title": "Two Sum II - Input Array Is Sorted"
     },
-    "merge-intervals": {
-      "id": "56",
-      "title": "Merge Intervals",
-      "slug": "merge-intervals",
+    "3sum-closest": {
+      "id": "16",
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
       "difficulty": "Medium",
       "tags": [
         "Array",
-        "Sorting",
-        "Quicksort"
+        "Two Pointers",
+        "Sorting"
       ],
-      "path": "0056-merge-intervals",
-      "firstSolved": 1795695144000,
-      "lastSolved": 1795695144000,
+      "path": "0016-3sum-closest",
+      "firstSolved": 1795695462000,
+      "lastSolved": 1795695462000,
       "langs": {
         "cpp": {
-          "hash": "ee30fc2fff7a1b8fa9d7d0fcdc5a34e54d57a6cb1d54ac591fe8dcbac40c5bb8",
-          "file": "merge-intervals.cpp",
+          "hash": "21d0e1bfc4c5f805f0e9508c3890e291ceaaf285b28ee296d5ebfe5d495e9cfd",
+          "file": "3sum-closest.cpp",
           "label": "C++"
         }
       },
@@ -805,12 +838,12 @@
         {
           "lang": "cpp",
           "label": "C++",
-          "runtime": "5 ms",
-          "memory": "23.9 MB",
-          "runtimePct": 67.72940000000001,
-          "memoryPct": 31.10410000000002,
-          "ts": 1795695144000,
-          "submissionId": 2203878255
+          "runtime": "22 ms",
+          "memory": "14.1 MB",
+          "runtimePct": 7.153099999999993,
+          "memoryPct": 9.7014,
+          "ts": 1795695462000,
+          "submissionId": 2203880530
         }
       ]
     }
@@ -820,6 +853,6 @@
     "2026-11-22": 7,
     "2026-11-24": 5,
     "2026-11-25": 7,
-    "2026-11-26": 3
+    "2026-11-26": 4
   }
 }
