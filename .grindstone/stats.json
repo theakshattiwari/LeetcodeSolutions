@@ -1,5 +1,38 @@
 {
   "problems": {
+    "3sum": {
+      "difficulty": "Medium",
+      "firstSolved": 1795688030000,
+      "id": "15",
+      "langs": {
+        "cpp": {
+          "file": "3sum.cpp",
+          "hash": "2274c52c391335fe5c5b9db2e3dea6e6be6aeedc4ca2b178179a77344c389ff2",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795688030000,
+      "path": "0015-3sum",
+      "slug": "3sum",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "29.2 MB",
+          "memoryPct": 25.41530000000005,
+          "runtime": "45 ms",
+          "runtimePct": 78.06550000000003,
+          "submissionId": 2203822059,
+          "ts": 1795688030000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "title": "3Sum"
+    },
     "best-time-to-buy-and-sell-stock": {
       "difficulty": "Easy",
       "firstSolved": 1795546608000,
@@ -748,23 +781,23 @@
       ],
       "title": "Two Sum II - Input Array Is Sorted"
     },
-    "3sum": {
-      "id": "15",
-      "title": "3Sum",
-      "slug": "3sum",
+    "merge-intervals": {
+      "id": "56",
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
       "difficulty": "Medium",
       "tags": [
         "Array",
-        "Two Pointers",
-        "Sorting"
+        "Sorting",
+        "Quicksort"
       ],
-      "path": "0015-3sum",
-      "firstSolved": 1795688030000,
-      "lastSolved": 1795688030000,
+      "path": "0056-merge-intervals",
+      "firstSolved": 1795695144000,
+      "lastSolved": 1795695144000,
       "langs": {
         "cpp": {
-          "hash": "2274c52c391335fe5c5b9db2e3dea6e6be6aeedc4ca2b178179a77344c389ff2",
-          "file": "3sum.cpp",
+          "hash": "ee30fc2fff7a1b8fa9d7d0fcdc5a34e54d57a6cb1d54ac591fe8dcbac40c5bb8",
+          "file": "merge-intervals.cpp",
           "label": "C++"
         }
       },
@@ -772,12 +805,12 @@
         {
           "lang": "cpp",
           "label": "C++",
-          "runtime": "45 ms",
-          "memory": "29.2 MB",
-          "runtimePct": 78.06550000000003,
-          "memoryPct": 25.41530000000005,
-          "ts": 1795688030000,
-          "submissionId": 2203822059
+          "runtime": "5 ms",
+          "memory": "23.9 MB",
+          "runtimePct": 67.72940000000001,
+          "memoryPct": 31.10410000000002,
+          "ts": 1795695144000,
+          "submissionId": 2203878255
         }
       ]
     }
@@ -787,6 +820,6 @@
     "2026-11-22": 7,
     "2026-11-24": 5,
     "2026-11-25": 7,
-    "2026-11-26": 2
+    "2026-11-26": 3
   }
 }
