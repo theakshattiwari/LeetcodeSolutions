@@ -389,6 +389,38 @@
       ],
       "title": "Maximum Average Subarray I"
     },
+    "maximum-number-of-vowels-in-a-substring-of-given-length": {
+      "difficulty": "Medium",
+      "firstSolved": 1795807405000,
+      "id": "1456",
+      "langs": {
+        "cpp": {
+          "file": "maximum-number-of-vowels-in-a-substring-of-given-length.cpp",
+          "hash": "311c908aeb060d3035b56956adffdba9ac99db567a1b101bf5888f2c60bdfbfe",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795807405000,
+      "path": "1456-maximum-number-of-vowels-in-a-substring-of-given-length",
+      "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "13 MB",
+          "memoryPct": 80.42639999999999,
+          "runtime": "9 ms",
+          "runtimePct": 27.97780000000001,
+          "submissionId": 2204767218,
+          "ts": 1795807405000
+        }
+      ],
+      "tags": [
+        "String",
+        "Sliding Window"
+      ],
+      "title": "Maximum Number of Vowels in a Substring of Given Length"
+    },
     "maximum-subarray": {
       "difficulty": "Medium",
       "firstSolved": 1795525728000,
@@ -947,22 +979,26 @@
       ],
       "title": "Two Sum II - Input Array Is Sorted"
     },
-    "maximum-number-of-vowels-in-a-substring-of-given-length": {
-      "id": "1456",
-      "title": "Maximum Number of Vowels in a Substring of Given Length",
-      "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
-      "difficulty": "Medium",
+    "majority-element": {
+      "id": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "difficulty": "Easy",
       "tags": [
-        "String",
-        "Sliding Window"
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Counting",
+        "Boyer–Moore Majority Vote Algorithm"
       ],
-      "path": "1456-maximum-number-of-vowels-in-a-substring-of-given-length",
-      "firstSolved": 1795807405000,
-      "lastSolved": 1795807405000,
+      "path": "0169-majority-element",
+      "firstSolved": 1795810158000,
+      "lastSolved": 1795810158000,
       "langs": {
         "cpp": {
-          "hash": "311c908aeb060d3035b56956adffdba9ac99db567a1b101bf5888f2c60bdfbfe",
-          "file": "maximum-number-of-vowels-in-a-substring-of-given-length.cpp",
+          "hash": "1042ea65cbec451e093caa10c22350d674d55db4751776da3427f391d02dd082",
+          "file": "majority-element.cpp",
           "label": "C++"
         }
       },
@@ -970,12 +1006,12 @@
         {
           "lang": "cpp",
           "label": "C++",
-          "runtime": "9 ms",
-          "memory": "13 MB",
-          "runtimePct": 27.97780000000001,
-          "memoryPct": 80.42639999999999,
-          "ts": 1795807405000,
-          "submissionId": 2204767218
+          "runtime": "0 ms",
+          "memory": "42.1 MB",
+          "runtimePct": 100,
+          "memoryPct": 41.60620000000005,
+          "ts": 1795810158000,
+          "submissionId": 2204782895
         }
       ]
     }
@@ -987,6 +1023,6 @@
     "2026-11-25": 7,
     "2026-11-26": 4,
     "2026-11-27": 1,
-    "2026-11-28": 3
+    "2026-11-28": 4
   }
 }
