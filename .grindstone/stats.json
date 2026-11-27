@@ -456,6 +456,40 @@
       ],
       "title": "Merge Intervals"
     },
+    "minimum-size-subarray-sum": {
+      "difficulty": "Medium",
+      "firstSolved": 1795805315000,
+      "id": "209",
+      "langs": {
+        "cpp": {
+          "file": "minimum-size-subarray-sum.cpp",
+          "hash": "b6145387bd6c3fa3ff2b2a7972dab451c058fd3dce74dee3afa8a57aa65eba8c",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795805315000,
+      "path": "0209-minimum-size-subarray-sum",
+      "slug": "minimum-size-subarray-sum",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "41.9 MB",
+          "memoryPct": 62.55480000000001,
+          "runtime": "0 ms",
+          "runtimePct": 100,
+          "submissionId": 2204753256,
+          "ts": 1795805315000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "title": "Minimum Size Subarray Sum"
+    },
     "move-zeroes": {
       "difficulty": "Easy",
       "firstSolved": 1795550549000,
@@ -879,10 +913,10 @@
       ],
       "title": "Two Sum II - Input Array Is Sorted"
     },
-    "minimum-size-subarray-sum": {
-      "id": "209",
-      "title": "Minimum Size Subarray Sum",
-      "slug": "minimum-size-subarray-sum",
+    "max-consecutive-ones-iii": {
+      "id": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
       "difficulty": "Medium",
       "tags": [
         "Array",
@@ -890,13 +924,13 @@
         "Sliding Window",
         "Prefix Sum"
       ],
-      "path": "0209-minimum-size-subarray-sum",
-      "firstSolved": 1795805315000,
-      "lastSolved": 1795805315000,
+      "path": "1004-max-consecutive-ones-iii",
+      "firstSolved": 1795806314000,
+      "lastSolved": 1795806314000,
       "langs": {
         "cpp": {
-          "hash": "b6145387bd6c3fa3ff2b2a7972dab451c058fd3dce74dee3afa8a57aa65eba8c",
-          "file": "minimum-size-subarray-sum.cpp",
+          "hash": "95c0a8a3ebc25465b817fbd79ee95a60685a15aa260c6578cf82e823af5dcd53",
+          "file": "max-consecutive-ones-iii.cpp",
           "label": "C++"
         }
       },
@@ -904,12 +938,12 @@
         {
           "lang": "cpp",
           "label": "C++",
-          "runtime": "0 ms",
-          "memory": "41.9 MB",
-          "runtimePct": 100,
-          "memoryPct": 62.55480000000001,
-          "ts": 1795805315000,
-          "submissionId": 2204753256
+          "runtime": "1 ms",
+          "memory": "79.4 MB",
+          "runtimePct": 63.3432,
+          "memoryPct": 49.32589999999992,
+          "ts": 1795806314000,
+          "submissionId": 2204760214
         }
       ]
     }
@@ -921,6 +955,6 @@
     "2026-11-25": 7,
     "2026-11-26": 4,
     "2026-11-27": 1,
-    "2026-11-28": 1
+    "2026-11-28": 2
   }
 }
