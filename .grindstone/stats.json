@@ -323,6 +323,40 @@
       ],
       "title": "Max Consecutive Ones"
     },
+    "max-consecutive-ones-iii": {
+      "difficulty": "Medium",
+      "firstSolved": 1795806314000,
+      "id": "1004",
+      "langs": {
+        "cpp": {
+          "file": "max-consecutive-ones-iii.cpp",
+          "hash": "95c0a8a3ebc25465b817fbd79ee95a60685a15aa260c6578cf82e823af5dcd53",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795806314000,
+      "path": "1004-max-consecutive-ones-iii",
+      "slug": "max-consecutive-ones-iii",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "79.4 MB",
+          "memoryPct": 49.32589999999992,
+          "runtime": "1 ms",
+          "runtimePct": 63.3432,
+          "submissionId": 2204760214,
+          "ts": 1795806314000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "title": "Max Consecutive Ones III"
+    },
     "maximum-average-subarray-i": {
       "difficulty": "Easy",
       "firstSolved": 1795762732000,
@@ -913,24 +947,22 @@
       ],
       "title": "Two Sum II - Input Array Is Sorted"
     },
-    "max-consecutive-ones-iii": {
-      "id": "1004",
-      "title": "Max Consecutive Ones III",
-      "slug": "max-consecutive-ones-iii",
+    "maximum-number-of-vowels-in-a-substring-of-given-length": {
+      "id": "1456",
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
       "difficulty": "Medium",
       "tags": [
-        "Array",
-        "Binary Search",
-        "Sliding Window",
-        "Prefix Sum"
+        "String",
+        "Sliding Window"
       ],
-      "path": "1004-max-consecutive-ones-iii",
-      "firstSolved": 1795806314000,
-      "lastSolved": 1795806314000,
+      "path": "1456-maximum-number-of-vowels-in-a-substring-of-given-length",
+      "firstSolved": 1795807405000,
+      "lastSolved": 1795807405000,
       "langs": {
         "cpp": {
-          "hash": "95c0a8a3ebc25465b817fbd79ee95a60685a15aa260c6578cf82e823af5dcd53",
-          "file": "max-consecutive-ones-iii.cpp",
+          "hash": "311c908aeb060d3035b56956adffdba9ac99db567a1b101bf5888f2c60bdfbfe",
+          "file": "maximum-number-of-vowels-in-a-substring-of-given-length.cpp",
           "label": "C++"
         }
       },
@@ -938,12 +970,12 @@
         {
           "lang": "cpp",
           "label": "C++",
-          "runtime": "1 ms",
-          "memory": "79.4 MB",
-          "runtimePct": 63.3432,
-          "memoryPct": 49.32589999999992,
-          "ts": 1795806314000,
-          "submissionId": 2204760214
+          "runtime": "9 ms",
+          "memory": "13 MB",
+          "runtimePct": 27.97780000000001,
+          "memoryPct": 80.42639999999999,
+          "ts": 1795807405000,
+          "submissionId": 2204767218
         }
       ]
     }
@@ -955,6 +987,6 @@
     "2026-11-25": 7,
     "2026-11-26": 4,
     "2026-11-27": 1,
-    "2026-11-28": 2
+    "2026-11-28": 3
   }
 }
