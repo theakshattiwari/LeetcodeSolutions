@@ -33,6 +33,39 @@
       ],
       "title": "3Sum"
     },
+    "3sum-closest": {
+      "difficulty": "Medium",
+      "firstSolved": 1795695462000,
+      "id": "16",
+      "langs": {
+        "cpp": {
+          "file": "3sum-closest.cpp",
+          "hash": "21d0e1bfc4c5f805f0e9508c3890e291ceaaf285b28ee296d5ebfe5d495e9cfd",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795695462000,
+      "path": "0016-3sum-closest",
+      "slug": "3sum-closest",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "14.1 MB",
+          "memoryPct": 9.7014,
+          "runtime": "22 ms",
+          "runtimePct": 7.153099999999993,
+          "submissionId": 2203880530,
+          "ts": 1795695462000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "title": "3Sum Closest"
+    },
     "best-time-to-buy-and-sell-stock": {
       "difficulty": "Easy",
       "firstSolved": 1795546608000,
@@ -814,23 +847,22 @@
       ],
       "title": "Two Sum II - Input Array Is Sorted"
     },
-    "3sum-closest": {
-      "id": "16",
-      "title": "3Sum Closest",
-      "slug": "3sum-closest",
-      "difficulty": "Medium",
+    "maximum-average-subarray-i": {
+      "id": "643",
+      "title": "Maximum Average Subarray I",
+      "slug": "maximum-average-subarray-i",
+      "difficulty": "Easy",
       "tags": [
         "Array",
-        "Two Pointers",
-        "Sorting"
+        "Sliding Window"
       ],
-      "path": "0016-3sum-closest",
-      "firstSolved": 1795695462000,
-      "lastSolved": 1795695462000,
+      "path": "0643-maximum-average-subarray-i",
+      "firstSolved": 1795762732000,
+      "lastSolved": 1795762732000,
       "langs": {
         "cpp": {
-          "hash": "21d0e1bfc4c5f805f0e9508c3890e291ceaaf285b28ee296d5ebfe5d495e9cfd",
-          "file": "3sum-closest.cpp",
+          "hash": "627866265d08da68ffc3193c8ef0de6fb2426e0ceae1c9de9adc114c8b332bb3",
+          "file": "maximum-average-subarray-i.cpp",
           "label": "C++"
         }
       },
@@ -838,12 +870,12 @@
         {
           "lang": "cpp",
           "label": "C++",
-          "runtime": "22 ms",
-          "memory": "14.1 MB",
-          "runtimePct": 7.153099999999993,
-          "memoryPct": 9.7014,
-          "ts": 1795695462000,
-          "submissionId": 2203880530
+          "runtime": "0 ms",
+          "memory": "113.6 MB",
+          "runtimePct": 100,
+          "memoryPct": 84.78960000000001,
+          "ts": 1795762732000,
+          "submissionId": 2204390529
         }
       ]
     }
@@ -853,6 +885,7 @@
     "2026-11-22": 7,
     "2026-11-24": 5,
     "2026-11-25": 7,
-    "2026-11-26": 4
+    "2026-11-26": 4,
+    "2026-11-27": 1
   }
 }
