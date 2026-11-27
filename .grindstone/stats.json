@@ -323,6 +323,38 @@
       ],
       "title": "Max Consecutive Ones"
     },
+    "maximum-average-subarray-i": {
+      "difficulty": "Easy",
+      "firstSolved": 1795762732000,
+      "id": "643",
+      "langs": {
+        "cpp": {
+          "file": "maximum-average-subarray-i.cpp",
+          "hash": "627866265d08da68ffc3193c8ef0de6fb2426e0ceae1c9de9adc114c8b332bb3",
+          "label": "C++"
+        }
+      },
+      "lastSolved": 1795762732000,
+      "path": "0643-maximum-average-subarray-i",
+      "slug": "maximum-average-subarray-i",
+      "submissions": [
+        {
+          "label": "C++",
+          "lang": "cpp",
+          "memory": "113.6 MB",
+          "memoryPct": 84.78960000000001,
+          "runtime": "0 ms",
+          "runtimePct": 100,
+          "submissionId": 2204390529,
+          "ts": 1795762732000
+        }
+      ],
+      "tags": [
+        "Array",
+        "Sliding Window"
+      ],
+      "title": "Maximum Average Subarray I"
+    },
     "maximum-subarray": {
       "difficulty": "Medium",
       "firstSolved": 1795525728000,
@@ -847,22 +879,24 @@
       ],
       "title": "Two Sum II - Input Array Is Sorted"
     },
-    "maximum-average-subarray-i": {
-      "id": "643",
-      "title": "Maximum Average Subarray I",
-      "slug": "maximum-average-subarray-i",
-      "difficulty": "Easy",
+    "minimum-size-subarray-sum": {
+      "id": "209",
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "difficulty": "Medium",
       "tags": [
         "Array",
-        "Sliding Window"
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
       ],
-      "path": "0643-maximum-average-subarray-i",
-      "firstSolved": 1795762732000,
-      "lastSolved": 1795762732000,
+      "path": "0209-minimum-size-subarray-sum",
+      "firstSolved": 1795805315000,
+      "lastSolved": 1795805315000,
       "langs": {
         "cpp": {
-          "hash": "627866265d08da68ffc3193c8ef0de6fb2426e0ceae1c9de9adc114c8b332bb3",
-          "file": "maximum-average-subarray-i.cpp",
+          "hash": "b6145387bd6c3fa3ff2b2a7972dab451c058fd3dce74dee3afa8a57aa65eba8c",
+          "file": "minimum-size-subarray-sum.cpp",
           "label": "C++"
         }
       },
@@ -871,11 +905,11 @@
           "lang": "cpp",
           "label": "C++",
           "runtime": "0 ms",
-          "memory": "113.6 MB",
+          "memory": "41.9 MB",
           "runtimePct": 100,
-          "memoryPct": 84.78960000000001,
-          "ts": 1795762732000,
-          "submissionId": 2204390529
+          "memoryPct": 62.55480000000001,
+          "ts": 1795805315000,
+          "submissionId": 2204753256
         }
       ]
     }
@@ -886,6 +920,7 @@
     "2026-11-24": 5,
     "2026-11-25": 7,
     "2026-11-26": 4,
-    "2026-11-27": 1
+    "2026-11-27": 1,
+    "2026-11-28": 1
   }
 }
